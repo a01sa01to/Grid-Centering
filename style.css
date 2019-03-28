@@ -1,0 +1,23 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 0.5fr max-content 0.5fr;
+    grid-template-rows: 0.5fr max-content 0.5fr;
+    grid-template-areas:
+        ". .... ."
+        ". item ."
+        ". .... .";
+}
+.container{
+    background: #ddd;
+    width: max-content;
+    height: max-content;
+    grid-area: item;
+}
