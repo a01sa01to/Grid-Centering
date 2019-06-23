@@ -1,7 +1,7 @@
 # Grid-Centering
 
 ## What is this?
-This is a example of which you center an element on a page with Grid(CSS).
+This is a example of which you center an element on a page with Grid(CSS).  
 See also https://qiita.com/a01sa01to/items/b8130d7a871e6b3aa31e (Japanese).
 
 ## How to inspect
