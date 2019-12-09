@@ -6,7 +6,7 @@ See also https://qiita.com/a01sa01to/items/b8130d7a871e6b3aa31e (Japanese).
 
 ## How to inspect
 
-1. Open http://repos.a01sa01to.com/Grid-Centering/ .
+1. Open https://repos.a01sa01to.com/Grid-Centering/ .
 
 2. On the top of the page, you'll see a slider and a textbox.
 
